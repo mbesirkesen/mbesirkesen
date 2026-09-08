@@ -1,54 +1,65 @@
-<h1 align="center">Merhaba, ben Muhammed Besir Kesen 👋</h1>
+<div align="center">
 
-<p align="center">
-  Yazılım geliştirme, modern web teknolojileri ve açık kaynak ile ilgileniyorum.
-</p>
+# Merhaba, ben Muhammed Besir Kesen 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mbesirkesen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mbesirkesen@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=520&lines=Mobile+Application+Developer;Backend+%26+Cloud+Enthusiast;Building+Modern+Software" alt="Typing SVG" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=mbesirkesen&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme&color=0e75b6&style=flat" alt="Profil görüntülenme" />
+
+<br />
+
+<a href="https://www.linkedin.com/in/mbesirkesen" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mbesirkesen@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+</a>
+
+</div>
 
 ---
 
 ## 🛠️ Yetenekler
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,go,cs,postgres,docker,git,linux&theme=dark" alt="Skill icons" />
+  </a>
+</div>
+
+---
+
+## 🏆 Kupalar
+
+<div align="center">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=mbesirkesen&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbesirkesen&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbesirkesen&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=mbesirkesen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mbesirkesen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbesirkesen&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mbesirkesen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbesirkesen/mbesirkesen/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbesirkesen/mbesirkesen/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mbesirkesen/mbesirkesen/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/mbesirkesen/mbesirkesen@output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/mbesirkesen/mbesirkesen@output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://cdn.jsdelivr.net/gh/mbesirkesen/mbesirkesen@output/github-snake.svg" />
   </picture>
-</p>
+</div>
